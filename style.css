@@ -5,10 +5,6 @@
 
 }
 
-/* body {
-    background-color: gold;
-} */
-
 * {
 
     margin: 0 auto;
@@ -43,7 +39,7 @@
     text-decoration: none;
     color: #000000;
     font-size: 16px;
-    font-weight: 500px;
+    font-weight: 500;
 }
 
 .btn-1 {
@@ -241,6 +237,11 @@ button:hover {
 }
 
 /* now brain section */
+.knowledge-img img {
+    height: 600px;
+    width: 600px;
+}
+
 .brain-section {
     margin-top: 120px;
     display: flex;
