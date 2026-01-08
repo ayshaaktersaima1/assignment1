@@ -175,7 +175,8 @@
 }
 
 .for-clr {
-    background-color: #62738215;
+    background-color: rgba(247, 246, 242, 1);
+
 }
 
 .card1 {
@@ -280,4 +281,32 @@
     align-items: center;
     justify-content: center;
     gap: 6px;
+}
+
+/* for ready to think section */
+.think-sec {
+    border-radius: 12px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    text-align: center;
+
+}
+
+.think-sec h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: rgba(0, 25, 49, 1);
+}
+
+.think-sec p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+    line-height: 24px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+
+.think-sec-content {
+    padding: 80px 376px;
 }
