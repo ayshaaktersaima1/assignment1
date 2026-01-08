@@ -310,3 +310,52 @@
 .think-sec-content {
     padding: 80px 376px;
 }
+
+/* now footer */
+footer {
+    background-color: rgba(0, 25, 49, 1);
+    height: 348px;
+}
+
+.icon-con a {
+    margin-right: 12px;
+}
+
+footer img {
+    height: 60px;
+    width: 139px;
+}
+
+.footer-contents {
+    display: flex;
+    gap: 650px;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 120px;
+}
+
+footer p {
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding-bottom: 16px;
+}
+
+.foot-p {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.line {
+    border: none;
+    border-top: 1px solid rgba(229, 231, 235, 0.2);
+
+}
+
+.hr-part {
+    padding-top: 80px;
+}
