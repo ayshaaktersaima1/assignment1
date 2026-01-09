@@ -59,6 +59,7 @@
 
 button:hover {
     background-color: darkgreen;
+    cursor: pointer;
 }
 
 /* now banner */
