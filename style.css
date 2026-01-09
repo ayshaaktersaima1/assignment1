@@ -20,8 +20,13 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 34px;
-    margin-bottom: 34px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.nav-container img {
+    height: 60px;
+    width: 139px;
 }
 
 .nav-lists {
@@ -290,12 +295,12 @@ button:hover {
 
 /* for ready to think section */
 .think-sec {
-    border-radius: 12px;
     margin-top: 120px;
     margin-bottom: 120px;
     text-align: center;
 
 }
+
 
 .think-sec h2 {
     font-size: 40px;
@@ -314,6 +319,7 @@ button:hover {
 
 .think-sec-content {
     padding: 80px 376px;
+    border-radius: 12px;
 }
 
 /* now footer */
